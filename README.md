@@ -1,7 +1,5 @@
-# Python_Beginner_Projects_Hungrte
-A collection of beginner Python projects created while learning programming fundamentals.
-
-# Python Beginner Projects
+# Beginner_Projects_Hungrte
+A collection of beginner of mainly Python(for now) projects created while learning programming fundamentals.
 
 Welcome! 👋
 
