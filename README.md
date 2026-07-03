@@ -1,5 +1,5 @@
 # Beginner_Projects_Hungrte
-A collection of beginner of mainly Python(for now) projects created while learning programming fundamentals.
+A collection of beginner of projects created while learning programming fundamentals.
 
 Welcome! 👋
 
@@ -15,3 +15,5 @@ This repository contains the Python projects I build while learning programming.
 - Functions
 - Conditionals
 - Modules
+- Basic code optimization
+
