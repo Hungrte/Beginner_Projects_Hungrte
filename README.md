@@ -7,7 +7,7 @@ This repository contains the Python projects I build while learning programming.
 
 ## Projects
 - 🎲 Number Guessing Game
-- (More coming soon!)
+- Turn-Based Slime Fighting Game
 
 ## Skills I'm Learning
 - Variables
