@@ -3,7 +3,7 @@ A collection of beginner of projects created while learning programming fundamen
 
 Welcome! 👋
 
-This repository contains the Python projects I build while learning programming. My goal is to improve my problem-solving skills, write cleaner code, and document my progress over time.
+This repository contains the projects I build while learning programming. My goal is to improve my problem-solving skills, write cleaner code, and document my progress over time.
 
 ## Projects
 - 🎲 Number Guessing Game
