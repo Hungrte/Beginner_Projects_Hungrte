@@ -8,7 +8,9 @@ This repository contains the projects I build while learning programming. My goa
 ## Projects
 - 🎲 Number Guessing Game
 - Turn-Based Slime Fighting Game
-
+- Commute Checker
+- Caesar Cipher
+  
 ## Skills I'm Learning
 - Variables
 - Loops
