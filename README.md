@@ -10,6 +10,7 @@ This repository contains the projects I build while learning programming. My goa
 - Turn-Based Slime Fighting Game
 - Commute Checker
 - Caesar Cipher
+- Contacts List
   
 ## Skills I'm Learning
 - Variables
